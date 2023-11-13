@@ -57,6 +57,11 @@ let sr = ScrollReveal({
 
 sr.reveal(".hero-info", {delay: 600});
 sr.reveal(".hero-image", { origin: "top", delay: 700});
+sr.reveal(".about-grid", { origin: "bottom", delay: 400});
+sr.reveal(".about-info", { origin: "bottom", delay: 300});
+sr.reveal(".services-grid", { origin: "right", delay: 500});
+sr.reveal(".contact-info", { origin: "left", delay: 500});
+sr.reveal(".contact-form", { origin: "right", delay: 400});
 
 
 // -----Skill pogess Bar Animation-----
