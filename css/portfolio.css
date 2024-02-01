@@ -529,9 +529,9 @@ body.open .hamburger .bar:last-child {
 
 .hero-image{
   position: relative;
-  height: auto;
+  height: 85%;
   width:90% !important;
-  background-color: #c5e3ea;
+  background-color: #ffffff;
   border-radius: 50%;
   overflow: hidden;
 
